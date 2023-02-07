@@ -11,3 +11,5 @@ Criar uma pasta em sua maquina e nomear de acordo com o repositorio.
 1-Com o Git Bash já instalado clicar com o botão direito do mouse e abrir a pasta direto no Bash.
 2-Digitar git clone no bash + URL copiada no GitHub apertar Enter.
 3-Digitar cd + descrição em Cloning into enter novamente.
+4-Agora sua maquina esta em conexão com o GitHub.
+5- Digitar git status.
