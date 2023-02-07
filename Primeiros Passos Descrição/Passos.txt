@@ -1,0 +1,13 @@
+Criar conta no GitHub.
+1-Acessar new repository (lado direito sinal de +)
+2-Nomear o repositorio e criar descrição de acordo com o nome.
+3-Marcar caixa Readme  
+4-Salvar - Create Repository
+5-Acessar repositorio e clicar em editar (lado direito lapis), criar ou acrescentar alguma descrição
+salvar abaixo no botão commit.
+6-Acessar novamente repositorio criado e clonar para a sua maquina, clica botão CODE e copiar a URL.
+
+Criar uma pasta em sua maquina e nomear de acordo com o repositorio.
+1-Com o Git Bash já instalado clicar com o botão direito do mouse e abrir a pasta direto no Bash.
+2-Digitar git clone no bash + URL copiada no GitHub apertar Enter.
+3-Digitar cd + descrição em Cloning into enter novamente.
